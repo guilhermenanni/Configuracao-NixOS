@@ -11,8 +11,8 @@
 ## instalar
 
 ```bash
-git clone https://github.com/guilhermenanni/nixos.git
-cd SEU-REPO
+git clone https://github.com/guilhermenanni/Configuracao-NixOS/
+cd Configuracao-NixOS
 chmod +x install.sh
 ./install.sh
 
