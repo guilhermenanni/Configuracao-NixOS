@@ -1,0 +1,12 @@
+Type=X-GNOME-Metatheme
+[Desktop Entry]
+Name=shell-Purple-Light
+Comment=An Flat Gtk+ theme based on Elegant Design
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=shell-Purple-Light
+MetacityTheme=shell-Purple-Light
+IconTheme=Tela-circle
+CursorTheme=shell-cursors
+ButtonLayout=close,minimize,maximize:menu

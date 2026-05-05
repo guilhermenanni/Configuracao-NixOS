@@ -1,0 +1,23 @@
+font-family = JetBrains Mono Nerd Font
+font-size = 12
+
+background = #282828
+foreground = #ebdbb2
+
+cursor-color = #fabd2f
+cursor-style = block
+
+selection-background = #504945
+selection-foreground = #ebdbb2
+background-opacity = 0.95
+
+window-padding-x = 14
+window-padding-y = 10
+window-width = 120
+window-height = 30
+
+scrollbar = never
+scrollback-limit = 50000
+
+copy-on-select = true
+confirm-close-surface = false

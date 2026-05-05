@@ -1,0 +1,8 @@
+Vitals@CoreCoding.com
+user-theme@gnome-shell-extensions.gcampax.github.com
+CoverflowAltTab@palatis.blogspot.com
+transparent-top-bar@zhanghai.me
+appindicatorsupport@rgcjonas.gmail.com
+blur-my-shell@aunetx
+dash-to-dock@micxgx.gmail.com
+just-perfection-desktop@just-perfection
