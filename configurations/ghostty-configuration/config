@@ -21,3 +21,8 @@ scrollback-limit = 50000
 
 copy-on-select = true
 confirm-close-surface = false
+
+keybind = shift+enter=text:\x0a
+
+
+

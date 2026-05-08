@@ -25,4 +25,7 @@ echo "Restaurando Ghostty terminal..."
 mkdir -p ~/.config/ghostty
 cp -r ghostty-configuration/* ~/.config/ghostty/ 2>/dev/null
 
+mv ~/.zshrc ~/.zshrc.old >/dev/null 2>&1 || true
+cp .zshrc ~/.zshrc
+
 echo "por questoes de segurança, a configuraçao do nixos deve ser aplicada manualmente, copie o conteúdo do arquivo nixos-configuration.nix para o arquivo /etc/nixos/configuration.nix e rode o comando 'nixos-rebuild switch' para aplicar as mudanças."
